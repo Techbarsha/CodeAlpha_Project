@@ -1,8 +1,8 @@
-Network Packet Sniffer
-Introduction
+# Network Packet Sniffer
+## Introduction
 This is a basic network packet sniffer built using Python. The sniffer captures and analyzes network traffic in real-time, displaying essential details about the captured packets such as protocol type, source and destination IP addresses, ports, and TCP flags. This project aims to help you understand the structure of network packets and how data flows through a network.
 
-Features
+# Features
 Packet Capture: Capture network packets using the scapy library.
 Protocol Filtering: Filter packets based on protocol (TCP, UDP, or All).
 Real-Time Analysis: View packet details in real-time in the GUI.
