@@ -31,7 +31,9 @@ pip install scapy pillow ttkthemes
 
 # How It Works🪩
 ▶️ Packet Sniffing: The sniffer captures packets using the sniff function from scapy. Based on the selected protocol (TCP, UDP, or All), the sniffer applies a filter and captures packets accordingly.
+
 ▶️ GUI Interface: The sniffer's interface is built using tkinter and ttk. The user can start/stop sniffing, clear the log, and save the packet details to a file. The GUI also includes animated buttons for an improved user experience.
+
 ▶️ Multi-threading: The packet sniffing runs in a separate thread, ensuring that the GUI remains responsive while packets are being captured.
 
 
