@@ -21,24 +21,26 @@ Install the required Python packages using pip:
 ```
 pip install scapy pillow ttkthemes
 ```
-How to Run
-1.Clone the repository
-2.Navigate to the project directory
-3.Run the sniffer PYTHON file
-4.Use the GUI to start sniffing packets, filter by protocol, clear logs, or save the output to a file.
+# How to Run⚙️
 
-How It Works
-Packet Sniffing: The sniffer captures packets using the sniff function from scapy. Based on the selected protocol (TCP, UDP, or All), the sniffer applies a filter and captures packets accordingly.
+## 1.Clone the repository
+## 2.Navigate to the project directory
+## 3.Run the sniffer PYTHON file
+## 4.Use the GUI to start sniffing packets, filter by protocol, clear logs, or save the output to a file.
+
+# How It Works🪩
+## Packet Sniffing: The sniffer captures packets using the sniff function from scapy. Based on the selected protocol (TCP, UDP, or All), the sniffer applies a filter and captures packets accordingly.
+## GUI Interface: The sniffer's interface is built using tkinter and ttk. The user can start/stop sniffing, clear the log, and save the packet details to a file. The GUI also includes animated buttons for an improved user experience.
+## Multi-threading: The packet sniffing runs in a separate thread, ensuring that the GUI remains responsive while packets are being captured.
 
 
-GUI Interface: The sniffer's interface is built using tkinter and ttk. The user can start/stop sniffing, clear the log, and save the packet details to a file. The GUI also includes animated buttons for an improved user experience.
-Multi-threading: The packet sniffing runs in a separate thread, ensuring that the GUI remains responsive while packets are being captured.
-Future Enhancements
-Detailed Packet Analysis: Add features for deeper inspection of packet contents.
-Multiple Protocols: Support for additional protocols like ICMP, HTTP, etc.
-Graphical Data Representation: Include visualizations for captured data like graphs or charts.
-License
+# Future Enhancements 🎮
+## Detailed Packet Analysis: Add features for deeper inspection of packet contents.
+## Multiple Protocols: Support for additional protocols like ICMP, HTTP, etc.
+## Graphical Data Representation: Include visualizations for captured data like graphs or charts.
+
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author
+# Author
 This project was created by Barsha Saha. Feel free to reach out if you have any questions or suggestions.
