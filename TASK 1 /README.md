@@ -3,21 +3,22 @@
 This is a basic network packet sniffer built using Python. The sniffer captures and analyzes network traffic in real-time, displaying essential details about the captured packets such as protocol type, source and destination IP addresses, ports, and TCP flags. This project aims to help you understand the structure of network packets and how data flows through a network.
 
 # Features
-Packet Capture: Capture network packets using the scapy library.
-Protocol Filtering: Filter packets based on protocol (TCP, UDP, or All).
-Real-Time Analysis: View packet details in real-time in the GUI.
-Save to File: Option to save captured packet details to a text file.
-Clear Log: Clear the displayed packet log in the GUI.
-Animated Buttons: Responsive UI with animated buttons for better user interaction.
-Dependencies
-Python 3.x
-tkinter: Standard Python library for GUI applications.
-ttkthemes: For enhancing the appearance of the ttk widgets.
-scapy: For network packet manipulation.
-PIL (Pillow): For handling images in the UI (optional).
-threading: For running the sniffer in a separate thread to keep the UI responsive.
+## Packet Capture: Capture network packets using the scapy library.
+## Protocol Filtering: Filter packets based on protocol (TCP, UDP, or All).
+## Real-Time Analysis: View packet details in real-time in the GUI.
+## Save to File: Option to save captured packet details to a text file.
+## Clear Log: Clear the displayed packet log in the GUI.
+## Animated Buttons: Responsive UI with animated buttons for better user interaction.
 
-Install the required Python packages using pip:
+# Dependencies
+## Python 3.x
+## tkinter: Standard Python library for GUI applications.
+## ttkthemes: For enhancing the appearance of the ttk widgets.
+## scapy: For network packet manipulation.
+## PIL (Pillow): For handling images in the UI (optional).
+## threading: For running the sniffer in a separate thread to keep the UI responsive.
+
+# Install the required Python packages using pip:
 ```
 pip install scapy pillow ttkthemes
 ```
