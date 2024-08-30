@@ -39,7 +39,9 @@ pip install scapy pillow ttkthemes
 
 # Future Enhancements 🎮
  ✅ Detailed Packet Analysis: Add features for deeper inspection of packet contents.
+ 
  ✅ Multiple Protocols: Support for additional protocols like ICMP, HTTP, etc.
+ 
  ✅ Graphical Data Representation: Include visualizations for captured data like graphs or charts.
 
 # License
