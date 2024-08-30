@@ -4,10 +4,15 @@ This is a basic network packet sniffer built using Python. The sniffer captures 
 
 # Features 🚀
 🧩Packet Capture: Capture network packets using the scapy library.
+
 🧩Protocol Filtering: Filter packets based on protocol (TCP, UDP, or All).
+
 🧩Real-Time Analysis: View packet details in real-time in the GUI.
+
 🧩Save to File: Option to save captured packet details to a text file.
+
 🧩Clear Log: Clear the displayed packet log in the GUI.
+
 🧩Animated Buttons: Responsive UI with animated buttons for better user interaction.
 
 # Dependencies 👨‍💻
