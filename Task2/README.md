@@ -1,4 +1,4 @@
-# Phishing Awareness Training
+# Phishing Awareness Training🗿
 
 ## Overview
 
@@ -38,10 +38,6 @@ If you have suggestions or improvements for the training materials, feel free to
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [your-email@example.com].
 
 ---
 
