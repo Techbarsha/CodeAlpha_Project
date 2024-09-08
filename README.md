@@ -1,4 +1,4 @@
-# CodeAlpha_cybersecurity_task
+# CodeAlpha_cybersecurity_task👩‍💻
 I presented here a summary of the tasks I did during my Cybersecurity Internship at Code Alpha.
 
 ## Task1
@@ -13,4 +13,4 @@ I was assigned to review the code of an application for security vulnerabilities
 ## Task 4
 Network Intrusion Detection System using Snort was not really easy but by hard working I think I will master that monitoring tool. To achieve this task, I watched to a YouTube video that you can find at this address https://youtu.be/iBsGSsbDMyw.
 
-Thanks.
+Thanks,Happy coding🗿
